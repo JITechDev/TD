@@ -82,10 +82,9 @@ p {
 
 /*testimonials section*/
 #testimonials {
-  padding: 7% 15%;
   text-align: center;
   background-color: #ef8172;
-
+  color:#fff; 
 }
 h2 {
   font-family: Montserrat-Bold;
@@ -97,6 +96,10 @@ h2 {
   border-radius: 100%;
   margin: 20px;
 }
+.carousel-item {
+    padding: 7% 15%;
+}
+
 /*press section*/
 #press {
   background-color: #ef8172;
